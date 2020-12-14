@@ -12,7 +12,7 @@ function genreAge (genre, age){
         return 'vous êtes une femme et vous êtes majeur';
     }
     else {
-        return 'vous êtes une femme et vous êtes majeur';
+        return 'vous êtes une femme et vous êtes mineur';
     }
 }
 let resultat = genreAge ("femme", 20);
